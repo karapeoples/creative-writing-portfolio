@@ -9,8 +9,9 @@ An excerpt of from my first novel attempt showcasing contemporary narrative dial
 
 ## 🎲 Project 2: The Dungeons & Dragons Layout with Campaign Logs
 
-Documenting complex game design systems through structured Markdown character sheets, inventory frameworks, and campaign logs. 🎲⚔️
+Documenting complex game design systems through structured Markdown character sheets, inventory frameworks, and campaign logs. 
 
+* 🐉 **Explore the System Architecture Here:** [D-D_Campaign_Log_Sample](https://github.com/karapeoples/D-D_Campaign_Log_Sample) 🎲⚔️
 
 ## 🐱 Project 3: The Rescue Animal Blog
 
