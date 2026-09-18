@@ -1,2 +1,20 @@
-# creative-writing-portfolio
-Excerpts, character studies, and dialogue scenes exploring contemporary urban fantasy motifs, pacing, and systemic world-building. ✒️✨
+# 🎨 Creative Writing Portfolio ~ Kara Peoples
+> **Technical Writing with Creative Flair**
+
+Welcome to my creative fiction workspace! This repository serves as a live demonstration of narrative pacing, character subtext, world-building architecture, and natural dialogue formatting. 
+
+## ✍️ Project 1: Creative Fiction & Dialogue Showcase
+
+An excerpt of from my first novel attempt showcasing contemporary narrative dialogue pacing, character subtext, and setting an engaging tone during low-stakes ordinary encounters within a speculative world.
+
+## 🎲 Project 2: The Dungeons & Dragons Layout
+
+(To Be Explained)
+
+## 🐱 Project 3: The Rescue Animal Blog
+
+(To Be Explained)
+
+## 🩺 Project 4: Patient Advocacy Documentation (Healthcare Guide)
+
+(To Be Explained)
