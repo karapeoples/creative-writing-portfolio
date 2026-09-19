@@ -1,4 +1,5 @@
 # 🎨 Creative Writing Portfolio ~ Kara Peoples
+Work in Progress...
 > **Technical Writing with Creative Flair**
 
 Welcome to my creative fiction workspace! This repository serves as a live demonstration of narrative pacing, character subtext, world-building architecture, and natural dialogue formatting. 
